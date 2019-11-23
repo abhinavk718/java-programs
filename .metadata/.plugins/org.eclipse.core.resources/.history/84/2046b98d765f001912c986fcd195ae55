@@ -1,0 +1,13 @@
+public class Encapsulationdemo
+{
+	public static void main(String[] args)
+	{
+		String str=set("abhinav");
+		System.out.println(str);
+	}
+	public static String set(String name)
+	{
+		return name;
+	}
+
+}

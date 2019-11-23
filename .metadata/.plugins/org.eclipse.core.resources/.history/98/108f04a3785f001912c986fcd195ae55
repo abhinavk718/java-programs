@@ -1,0 +1,10 @@
+public class Encapsulationdemo
+{
+	public String name;
+	public String setName(String name)
+	{
+		this.name=name;
+		return name;
+		//System.out.println(name);
+	}
+}

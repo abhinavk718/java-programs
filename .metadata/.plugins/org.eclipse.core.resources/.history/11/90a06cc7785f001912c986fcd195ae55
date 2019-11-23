@@ -1,0 +1,10 @@
+public class TestEncapsulation
+{
+	public static void main(String[] args) 
+	{
+		Encapsulationdemo e=new Encapsulationdemo();
+		e.setName("ABHINAV KUMAR choudhary");
+	    //System.out.println(e.name);
+	}
+
+}

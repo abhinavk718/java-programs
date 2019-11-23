@@ -1,0 +1,8 @@
+package org.btm.JarApp1;
+public class Election
+{
+	void vote()
+	{
+		System.out.println("abhinav is voting");
+	}
+}

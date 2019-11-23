@@ -1,0 +1,10 @@
+package org.btm.JarApp1;
+
+public class ElectionTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
